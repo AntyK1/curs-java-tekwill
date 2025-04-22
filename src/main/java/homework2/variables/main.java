@@ -1,4 +1,4 @@
-package homework1.variables;
+package homework2.variables;
 
 public class main {
     public static void main(String[] args) {

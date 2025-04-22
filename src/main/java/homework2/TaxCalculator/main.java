@@ -1,4 +1,4 @@
-package homework1.TaxCalculator;
+package homework2.TaxCalculator;
 
 import java.util.Scanner;
 
